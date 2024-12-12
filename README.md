@@ -11,7 +11,7 @@ Just an attempt to predict average reviews as well as implement a RAG model to r
 
 * Code for clustering (Xela code)
    - finalproj_xela.ipynb - use merged dataset
-* 
+  
 * Code for the RAG model (most is from the youtuber Pixegami from his tutorial)
     - All in the code for the rag model and streamlit is in the rag directory.
     - rag/rag-tutorial-v2/data has the pdf of the subset of books the model is trained on
