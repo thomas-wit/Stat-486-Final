@@ -3,7 +3,6 @@ Just an attempt to predict average reviews as well as implement a RAG model to r
 
 ## This repository contains code for the following:
 * Code to clean and create subsets of data (This will be commented out, comment back in to make data) (finalproj.ipynb)
-* Pre-Cleaned datasets resulting from the cleaning code 
 * Code for the model fitting for rating prediction (finalproj.ipynb)
    -Will need to get the data from https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
    - Just follow the script
